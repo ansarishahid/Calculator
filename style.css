@@ -1,0 +1,38 @@
+.container {
+    width: 100%;
+    text-align: center;
+    
+}
+
+.row {
+    margin: 10px 0px;
+    
+}
+
+.row button {
+    width: 50px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-left: 3px;
+    margin-right: 3px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.inp input {
+    padding: 10px 0px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.bg-yelred{
+background-color: rgb(230, 146, 37);
+ 
+}
+.bg-gray{
+    background-color: gray;
+}
+.bg-red{
+    background-color: red;
+    color: white;
+}
